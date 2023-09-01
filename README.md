@@ -1,6 +1,6 @@
-# maquina-separacao
+# Máquina de separação
 Máquina que separa dois produtos distintos utilizando a linguagem python junto com a biblioteca ***pygame***.
-## Máquina de separação
+
 <img src="https://github.com/miqueiasrodrigues/maquina-separacao/blob/main/assets/images/Animation.gif" width="480">
 
 ## Máquina quando está desativada
